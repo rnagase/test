@@ -1,0 +1,3 @@
+[submodule "AAA/log4"]
+	path = AAA/log4
+	url = https://git.ucs.ricoh.co.jp/vcsdk/log4cplus.git/
